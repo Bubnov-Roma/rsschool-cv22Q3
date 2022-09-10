@@ -35,3 +35,12 @@ Hi! My name is Roma Bubnov and i am junior frontend developer from Russia. I lik
 * JavaRush : 2019 - 2020
 * RS School : 2020 - present
 
+### Projects
+
+* [Wildlife](https://rolling-scopes-school.github.io/bubnov-roma-JSFE2021Q1/wildlife/)
+* [Pac-Man](https://rolling-scopes-school.github.io/bubnov-roma-JSFEPRESCHOOL/js30-random-game/)
+
+### English
+
+B-1
+
